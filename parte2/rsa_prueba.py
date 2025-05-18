@@ -1,4 +1,4 @@
-from parte2.rsa import mcd
+from minComunDivisor import mcd
 
 p = 7
 q = 3

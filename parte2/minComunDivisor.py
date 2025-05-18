@@ -20,5 +20,5 @@ def mcd(n1, n2):
             return divisores[-1]
 
 
-
-print(mcd(36, 60))
+if __name__ == '__main__':
+    print(mcd(36, 60))
